@@ -15,7 +15,7 @@ path: lj2nd
 # List of Lao Jia 2nd Form moves
 
 | No. | Chinese Names (中文名称) | Pinyin (拼音) | English Names (英文名称) |
-| --- | ----------------------- | ------ | --- | ----------------------- |
+| --- | ----------------------- | ------------ | ----------------------- |
 | 1.  | 太极起势  | Tài JíQǐ Shì | Starting Pose |
 | 2.  | 金刚捣碓 | Jīn Gāng Dǎo Zhùi | Buddha’s Warrior Pounds Mortar |
 | 3.  | 懒扎衣 | Lǎn Zhǎ Yī |Lazy About Tucking the Robe |
@@ -57,11 +57,3 @@ path: lj2nd
 | 39. | 回头井栏直入 | Húi Tóu Jǐng Lán ZhíRù | Turn Around and Drop the Pulley Rope into the Well |
 | 40. | 金刚捣碓 | Jīn Gāng Dǎo Zhùi | Buddha’s Warrior Pounds Mortar |
 | 41. | 收势 | Shōu Shì | Closing Pose |
-
-
-# test table
-
-| No. | Chinese Names  | Pinyin | English Names |
-| --- | -------------- | ------ | ------------- | 
-| 1.  | asdf | asdf | asdf |
-
