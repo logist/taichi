@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: page
 title: Lao Jia 1st Form 陈式老架一路
 path: lj1st
 ---
