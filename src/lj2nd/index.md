@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 title: Lao Jia 2nd Form 陈式老架二路
 path: lj2nd
 ---
