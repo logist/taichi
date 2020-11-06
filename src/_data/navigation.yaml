@@ -1,6 +1,6 @@
 ---
 items:
   - text: Lao Jia 1st Form 陈式老架一路
-    url: "lj1st"
+    url: "/lj1st"
   - text: Lao Jia 2nd Form 陈式老架二路
-    url: "lj2nd"
+    url: "/lj2nd"
