@@ -63,5 +63,5 @@ path: lj2nd
 
 | No. | Chinese Names  | Pinyin | English Names |
 | --- | ----------------------- | ------ | --- | ----------------------- |
-| 1.  | 太极起势  | Tài JíQǐ Shì | Starting Pose |
+| 1.  | asdf | asdf | asdf |
 
