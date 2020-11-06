@@ -61,7 +61,7 @@ path: lj2nd
 
 # test table
 
-| No. | Chinese Names (中文名称) | Pinyin (拼音) | English Names (英文名称) |
+| No. | Chinese Names  | Pinyin | English Names |
 | --- | ----------------------- | ------ | --- | ----------------------- |
 | 1.  | 太极起势  | Tài JíQǐ Shì | Starting Pose |
 
