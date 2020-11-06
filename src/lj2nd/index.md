@@ -4,18 +4,19 @@ title: Lao Jia 2nd Form 陈式老架二路
 path: lj2nd
 ---
 
-# Video
+# Video 视频
 
-[Link](https://s3-ap-southeast-2.amazonaws.com/video.sergeishutov.com/TaiChi+2nd+Form.mp4)
+[Link 链接](https://s3-ap-southeast-2.amazonaws.com/video.sergeishutov.com/TaiChi+2nd+Form.mp4)
 
   <video controls>
     <source src="https://s3-ap-southeast-2.amazonaws.com/video.sergeishutov.com/TaiChi+2nd+Form.mp4" type="video/mp4">
   </video>
 
-# List of Lao Jia 2nd Form moves
+# Moves 套路
 
 | No. | Chinese Names (中文名称) | Pinyin (拼音) | English Names (英文名称) |
 | --- | ----------------------- | ------------ | ----------------------- |
+|  | <td colspan=3> First section |
 | 1.  | 太极起势  | Tài JíQǐ Shì | Starting Pose |
 | 2.  | 金刚捣碓 | Jīn Gāng Dǎo Zhùi | Buddha’s Warrior Pounds Mortar |
 | 3.  | 懒扎衣 | Lǎn Zhǎ Yī |Lazy About Tucking the Robe |
@@ -37,23 +38,25 @@ path: lj2nd
 | 19. | 裹鞭裹鞭 | Gǔo Biān Gǔo Biān | Wrapping Punches |
 | 20. | 兽头势 | Shòu Tóu Shì | Beast Head Posture |
 | 21. | 披架子 | Pī JiàZǐ | Chopping Posture |
-| 22. | 掩手肱拳 | Yán Shǒu Gōng Quán | Covering Hand Punch |
-| 23. | 伏虎 | FúHǔ | Tame the Tiger |
-| 24. | 抹眉肱 | Mě Méi Gōng | Brush the Eye Brows |
-| 25. | 左右黄龙三搅水 | Zǔo Yòu Huáng Lóng Sān Jiǎo Shǔi | Yellow Dragon Stirs Up Water |
-| 26. | 左冲右冲 | Zǔo Chōng Yòu Chōng | Dash to the Left and Dash to the Right |
-| 27. | 掩手肱拳 | Yán Shǒu Gōng Quán | Covering Hand Punch |
-| 28. | 扫膛腿 | Sǎo Táng Tǔi | Sweep Kick |
+| 22. | 翻花舞袖 | Fān Hūa Wǔ Xìu | Dance with the Sleeves |
+| 23. | 掩手肱拳 | Yán Shǒu Gōng Quán | Covering Hand Punch |
+| 24. | 伏虎 | FúHǔ | Tame the Tiger |
+| 25. | 抹眉肱 | Mě Méi Gōng | Brush the Eye Brows |
+| 26. | 左右黄龙三搅水 | Zǔo Yòu Huáng Lóng Sān Jiǎo Shǔi | Yellow Dragon Stirs Up Water |
+| 27. | 左冲 | Zǔo Chōng | Dash to the Left |
+| 28. | 右冲 |  Yòu Chōng | Dash to the Right |
 | 29. | 掩手肱拳 | Yán Shǒu Gōng Quán | Covering Hand Punch |
-| 30. | 全炮捶 | Quán Pào Chúi | Full Cannon Fist |
+| 30. | 扫膛腿 | Sǎo Táng Tǔi | Sweep Kick |
 | 31. | 掩手肱拳 | Yán Shǒu Gōng Quán | Covering Hand Punch |
-| 32. | 捣叉捣叉 | Dǎo Chà Dǎo Chà | Pound and Split |
-| 33. | 左二肱右二肱 | Zǔo èr Gōng Yòu èr Gōng | Left and Right Continuous Strikes |
-| 34. | 回头当门炮 | Húi Tóu Dāng Mén Pào | Turn Around with Cannon Fist |
-| 35. | 变势大捉炮 | Biàn ShìDàZhùo Pào | Switch Position with Cannon Fist |
-| 36. | 腰拦肘 | Yāo Lán Zhǒu |  Cross Elbow Strike |
-| 37. | 顺拦肘 | Shùn Lán Zhǒu | Straight Elbow Strike |
-| 38. | 窝底炮 | Wō Dǐ Pào | Cannon into the Nest |
-| 39. | 回头井栏直入 | Húi Tóu Jǐng Lán ZhíRù | Turn Around and Drop the Pulley Rope into the Well |
-| 40. | 金刚捣碓 | Jīn Gāng Dǎo Zhùi | Buddha’s Warrior Pounds Mortar |
-| 41. | 收势 | Shōu Shì | Closing Pose |
+| 32. | 全炮捶 | Quán Pào Chúi | Full Cannon Fist |
+| 33. | 掩手肱拳 | Yán Shǒu Gōng Quán | Covering Hand Punch |
+| 34. | 捣叉捣叉 | Dǎo Chà Dǎo Chà | Pound and Split |
+| 35. | 左二肱右二肱 | Zǔo èr Gōng Yòu èr Gōng | Left and Right Continuous Strikes |
+| 36. | 回头当门炮 | Húi Tóu Dāng Mén Pào | Turn Around with Cannon Fist |
+| 37. | 变势大捉炮 | Biàn ShìDàZhùo Pào | Switch Position with Cannon Fist |
+| 38. | 腰拦肘 | Yāo Lán Zhǒu |  Cross Elbow Strike |
+| 39. | 顺拦肘 | Shùn Lán Zhǒu | Straight Elbow Strike |
+| 40. | 窝底炮 | Wō Dǐ Pào | Cannon into the Nest |
+| 41. | 回头井栏直入 | Húi Tóu Jǐng Lán ZhíRù | Turn Around and Drop the Pulley Rope into the Well |
+| 42. | 金刚捣碓 | Jīn Gāng Dǎo Zhùi | Buddha’s Warrior Pounds Mortar |
+| 43. | 收势 | Shōu Shì | Closing Pose |
