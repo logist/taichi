@@ -14,9 +14,9 @@ path: lj2nd
 
 # Moves 套路
 
-| No. | Chinese Names (中文名称) | Pinyin (拼音) | English Names (英文名称) |
+| No. | Chinese Names 中文名称 | Pinyin 拼音 | English Names 英文名称 |
 | --- | ----------------------- | ------------ | ----------------------- |
-|  | <td colspan=3> First section |
+| <td colspan=3> First section 第一部分 |
 | 1.  | 太极起势  | Tài JíQǐ Shì | Starting Pose |
 | 2.  | 金刚捣碓 | Jīn Gāng Dǎo Zhùi | Buddha’s Warrior Pounds Mortar |
 | 3.  | 懒扎衣 | Lǎn Zhǎ Yī |Lazy About Tucking the Robe |
@@ -30,6 +30,7 @@ path: lj2nd
 | 11. | 斩手 | Zhǎn Shǒu | Chop Hand |
 | 12. | 翻花舞袖 | Fān Hūa Wǔ Xìu | Dance with the Sleeves |
 | 13. | 掩手肱拳 | Yán Shǒu Gōng Quán | Covering Hand Punch |
+| <td colspan=3> Second section 第二部分 |
 | 14. | 转身腰拦肘 | Zhuǎn Sheēng Yāo Lán Zhǒu | Turn Around with Cross Elbow Strike |
 | 15. | 大肱拳小肱拳 | Dā Gōng Quán Xiǎo Gōng Quán | Upper and Lower Arm Strikes |
 | 16. | 玉女穿梭 | Yǜ Nǚ Chuān Sūo | Fair Lady Works with Shuttles |
@@ -40,6 +41,7 @@ path: lj2nd
 | 21. | 披架子 | Pī JiàZǐ | Chopping Posture |
 | 22. | 翻花舞袖 | Fān Hūa Wǔ Xìu | Dance with the Sleeves |
 | 23. | 掩手肱拳 | Yán Shǒu Gōng Quán | Covering Hand Punch |
+| <td colspan=3> Third section 第三部方 |
 | 24. | 伏虎 | FúHǔ | Tame the Tiger |
 | 25. | 抹眉肱 | Mě Méi Gōng | Brush the Eye Brows |
 | 26. | 左右黄龙三搅水 | Zǔo Yòu Huáng Lóng Sān Jiǎo Shǔi | Yellow Dragon Stirs Up Water |
@@ -50,6 +52,7 @@ path: lj2nd
 | 31. | 掩手肱拳 | Yán Shǒu Gōng Quán | Covering Hand Punch |
 | 32. | 全炮捶 | Quán Pào Chúi | Full Cannon Fist |
 | 33. | 掩手肱拳 | Yán Shǒu Gōng Quán | Covering Hand Punch |
+| <td colspan=3> Fourth section 第四部分 |
 | 34. | 捣叉捣叉 | Dǎo Chà Dǎo Chà | Pound and Split |
 | 35. | 左二肱右二肱 | Zǔo èr Gōng Yòu èr Gōng | Left and Right Continuous Strikes |
 | 36. | 回头当门炮 | Húi Tóu Dāng Mén Pào | Turn Around with Cannon Fist |
