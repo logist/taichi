@@ -16,7 +16,7 @@ path: sword
 
  No. | Chinese Names <br> 中文名称 | Pinyin <br> 拼音 | English Names <br> 英文名称 
 ---- | ----------------------- | ------------ | ----------------------- 
-1. | 起势 | Qǐshì | Opening
+| 1. | 起势 | Qǐshì | Opening
 2. | 朝阳 | Cháoyáng | Face the Sun
 3. | 仙人指路 | Xiānrén zhǐlù | Immortal Points the Way
 4. | 青龙出水 | Qīnglóng chū shuǐ | Bluegreen Dragon Emerges from the Water
