@@ -62,6 +62,6 @@ path: lj2nd
 # test table
 
 | No. | Chinese Names  | Pinyin | English Names |
-| --- | ----------------------- | ------ | --- | ----------------------- |
+| --- | -------------- | ------ | ------------- | 
 | 1.  | asdf | asdf | asdf |
 
