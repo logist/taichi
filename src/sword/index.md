@@ -14,8 +14,8 @@ path: sword
 
 # Moves 套路
 
-| No. | Chinese Names 中文名称 | Pinyin 拼音 | English Names 英文名称 |
-| --- | ----------------------- | ------------ | ----------------------- |
+ No. | Chinese Names <br> 中文名称 | Pinyin <br> 拼音 | English Names <br> 英文名称 
+---- | ----------------------- | ------------ | ----------------------- 
 1. | 起势 | Qǐshì | Opening
 2. | 朝阳 | Cháoyáng | Face the Sun
 3. | 仙人指路 | Xiānrén zhǐlù | Immortal Points the Way
