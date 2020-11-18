@@ -6,10 +6,10 @@ path: lj1st
 
 # Video 视频
 
-<p> <a href="https://s3-ap-southeast-2.amazonaws.com/video.sergeishutov.com/TaiChi+LaoJia+1st.mp4"> Link </a>
+<p> <a href="https://s3-ap-southeast-2.amazonaws.com/video.sergeishutov.com/TaiChi+LaoJia+1.mp4"> Link </a>
 <p> 
   <video controls>
-    <source src="https://s3-ap-southeast-2.amazonaws.com/video.sergeishutov.com/TaiChi+LaoJia+1st.mp4" type="video/mp4">
+    <source src="https://s3-ap-southeast-2.amazonaws.com/video.sergeishutov.com/TaiChi+LaoJia+1.mp4" type="video/mp4">
   </video>
 
 
